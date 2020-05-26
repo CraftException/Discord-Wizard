@@ -1,0 +1,16 @@
+{
+  "name": "Discord-Assistent",
+  "version": "0.2.1f-DEV",
+  "description": "Discord Assistant is an easy-to-use Discord bot.",
+  "main": "Scripts/main.js",
+  "author": "CraftException",
+  "scripts": {
+    "test": "node Scripts/main.js debug",
+    "start": "node Scripts/main.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "colors": "^1.1.2"
+  }
+}
