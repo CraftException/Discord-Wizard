@@ -22,6 +22,11 @@ With this feature you can give players a role by responding to a message. The gu
  Furthermore, you can edit the bot with the source code above (messages, features etc.) and thus adapt the bot for your guild.
  Instructions for this can be found on the wiki page
 
+## To-Do
+
+ 1. Reaction Roles
+ 2. Music
+
 ## Error
 
 Errors can be submitted in the GitHub tab Issues.
