@@ -1,0 +1,35 @@
+{
+	"servername": "Discord-Wizard Testserver",
+	"joinmsg": "none",
+	"joinmsgchannel": "712629026916663366",
+	"leavemsgchannel": "712629026916663366",
+	"leavemsg": "none",
+	"privatemsg": "none",
+	"commands": {
+		"basiccommand": "abc"
+	},
+	"level": {
+		"exampleuser": "0",
+		"626085097644490773": 185,
+		"714762965705818122": 0,
+		"715826845425074196": 0,
+		"715826883979247627": 0,
+		"715826921820389419": 0
+	},
+	"leveling": true,
+	"levelupmessage": "Yay {USERNAME}! You've reached level {LEVEL}!",
+	"messages": {
+		"exampleuser": "0",
+		"626085097644490773": 26,
+		"714762965705818122": 0,
+		"715826845425074196": 0,
+		"715826883979247627": 0,
+		"715826921820389419": 0
+	},
+	"reactions": {
+		"examplechannel": {
+			"Emoji": "A",
+			"role": "Example Role"
+		}
+	}
+}
